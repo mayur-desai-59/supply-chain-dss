@@ -1,0 +1,5 @@
+supplier_id,supplier_name,location,supplier_type,unit_prod_cost_inr,monthly_capacity,fixed_contract_cost_inr,defect_ppm,otif_rate,geo_risk_score
+SUP-CHN-01,Shenzhen Micro-Tech Ltd,"Shenzhen, China",Overseas LCC,1850.0,80000,500000,450,0.91,7.2
+SUP-VNM-01,Hai Phong Assembly Corp,"Hai Phong, Vietnam",ASEAN Nearshore,2100.0,50000,350000,280,0.94,4.1
+SUP-IND-TN,Sriperumbudur SMT Hub,"Tamil Nadu, India",Domestic PLI,2350.0,45000,200000,150,0.98,1.2
+SUP-IND-UP,Noida Electronics Park,"Uttar Pradesh, India",Domestic PLI,2400.0,35000,150000,120,0.97,1.1

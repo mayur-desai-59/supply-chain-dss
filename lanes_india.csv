@@ -1,0 +1,13 @@
+supplier_id,destination_hub,transport_mode,freight_cost_inr,bcd_tariff_pct,lead_time_days
+SUP-CHN-01,Bhiwandi_West,Ocean Freight (JNPT),180.0,0.22,24
+SUP-CHN-01,Hoskote_South,Ocean Freight (Chennai),165.0,0.22,21
+SUP-CHN-01,Farrukhnagar_North,Ocean + Rail (Mundra to NCR),220.0,0.22,28
+SUP-VNM-01,Bhiwandi_West,Ocean Freight (JNPT),150.0,0.1,18
+SUP-VNM-01,Hoskote_South,Ocean Freight (Chennai),125.0,0.1,14
+SUP-VNM-01,Farrukhnagar_North,Ocean + Rail,190.0,0.1,22
+SUP-IND-TN,Bhiwandi_West,Road Express,85.0,0.0,4
+SUP-IND-TN,Hoskote_South,Road Express,35.0,0.0,1
+SUP-IND-TN,Farrukhnagar_North,Road Express,110.0,0.0,5
+SUP-IND-UP,Bhiwandi_West,Road Express,90.0,0.0,4
+SUP-IND-UP,Hoskote_South,Road Express,115.0,0.0,5
+SUP-IND-UP,Farrukhnagar_North,Road Express,25.0,0.0,1
